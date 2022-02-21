@@ -4,7 +4,7 @@ $techAppConfig = [
 
     /* Base Path of app
     ------------------------------------------------------------------------- */
-    'base_url' =>  'http://192.168.100.5/',
+    'base_url' =>  'http://testowodegateway.mydko-sarl.com/',
 
     'payments' => [
         /* Gateway Configuration key
